@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to <b><a href="https://kiyomovdev.vercel.app/">Kiyomov Dev</a></b>'s profile!
+  Welcome to <b><a href="https://kiyomovdev.vercel.app/">k_abdullah</a></b>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
